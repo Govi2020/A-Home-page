@@ -1,3 +1,3 @@
-# js-lej2cx
+# A Home page
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-lej2cx)
+This is a Home page Made using Html,CSS it is just a Home page it is fully responsive
